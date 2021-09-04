@@ -1,17 +1,164 @@
-# bicky
-![3d card](https://user-images.githubusercontent.com/88628134/132084826-5f047971-8b75-43f8-9bb9-d2722c03ece6.jpg)
-![arrow](https://user-images.githubusercontent.com/88628134/132084831-7d78bb63-6d1c-424c-b1d9-e2cd48a96293.jpg)
-![caprog2](https://user-images.githubusercontent.com/88628134/132084834-787484f3-36a3-4cb8-bf40-6772b8a0c49e.jpg)
-![different-programming-languages](https://user-images.githubusercontent.com/88628134/132084845-cfce121b-e0e0-4c0c-bfd6-1a71983730d8.png)
-![me](https://user-images.githubusercontent.com/88628134/132084852-eb676af3-a9d7-48d4-a350-e9a6bc599d5b.png)
-![pngwing](https://user-images.githubusercontent.com/88628134/132084853-a1b20b59-61d2-4954-b828-37d523476596.png)
-![santwinder](https://user-images.githubusercontent.com/88628134/132084859-1f406589-386b-448b-a7f6-a5c6f5449cb4.jpg)
-![skate](https://user-images.githubusercontent.com/88628134/132084860-88273635-13a8-40cb-9f45-717270ed0fad.jpg)
-![superman](https://user-images.githubusercontent.com/88628134/132084863-75c89daf-60fd-43a7-859f-5ee08a2ccdbc.jpg)
-![TAEJIN JIN](https://user-images.githubusercontent.com/88628134/132084865-d6626a7e-d9bc-4ff2-81e5-54956070e949.jpg)
-![unnamed](https://user-images.githubusercontent.com/88628134/132084867-cb2045be-2d13-4066-8146-1ac07df45af9.jpg)
-![GG](https://user-images.githubusercontent.com/88628134/132084870-c4ecc056-2960-42b5-8da3-e9a618023035.png)
-![ggg](https://user-images.githubusercontent.com/88628134/132084871-636001d7-61d7-41e0-bdb1-170c640441bc.png)
-![KRYSTAL](https://user-images.githubusercontent.com/88628134/132084873-bf279af4-5605-4c9d-9928-eea4c3ec6ec2.jpg)
-![k2](https://user-images.githubusercontent.com/88628134/132084876-b3157516-ac93-462a-884d-008b6b61f24e.jpg)
-![k](https://user-images.githubusercontent.com/88628134/132084879-59679969-c431-4313-b2df-d554ff4fbf3d.jpg)
+
+<!DOCTYPE html>
+  <head>
+     <meta charset="utf-8">
+    <title>project</title>
+   <link rel="stylesheet" href="style.css">
+    </head>
+		<style>
+body{
+background-color: #FAF5E4;
+}
+h1.h
+{
+ font-family: Impact, fantasy;
+ text-align: center;
+  font-size: 60px;
+  color: #003638;
+  font-style: italic;
+
+}
+
+p.skill{
+font-family: Trattatello, fantasy;
+}
+
+p.st{
+font-family: OCR A Std, monospace;
+	text-align: center;
+	color: #444941;
+	font-size: 22px;
+}
+
+p.rr{
+font-family: OCR A Std, monospace;
+	text-align: center;
+	color: #444941;
+	font-size: 22px;
+}
+
+p.links{
+font-family: OCR A Std, monospace;
+	text-align: center;
+	font-size: 22px;
+}
+
+h3.q{
+text-align: center;
+font-family: OCR A Std, monospace;
+}
+
+	hr{
+	 color: black;
+	}
+
+	h3.q{
+	text-shadow: 200px;
+	font-style: italic;
+	}
+
+	h1{
+	   font-family: Impact, fantasy;
+	font-style: italic;
+	color: #004445;
+
+	}
+
+	p{
+	font-family: OCR A Std, monospace;
+	text-align: center;
+	color: #444941;
+	font-size: 22px;
+
+
+	}
+	</style>
+  <body><h3 class="q"><i>"If you are good at something, Never do it for FREE"</h3></i>
+  <h3 class="q">-Joker</h3>
+
+     <h1 class="h">I am<br>a<br>Graphic Designer.</h1>
+	 <center><img src="K.jpg" alt="my" height=400px></center>
+	 <br>
+
+<hr>
+<br><br>
+<center><img src="me.png" height= 200px></center>
+<br>
+<center><h1>About Me</h1></center>
+<p> My name is <b>Bikramjeet Singh</b>. I am a part-time Graphic Desinger.<br>
+I love do create new logos, concept arts and digital portraits. <br>
+It's not my profession but, it's my <b>Passion.</b></p>
+<br>
+<br>
+<br>
+<br>
+
+<h1><center>My Work</center></h3>
+<center>
+<img src="3d card.jpg" alt="card" height= 150px>
+<img src="arrow.jpg" alt="portrait" height= 150px>
+<img src="skate.jpg" alt="concept" height= 150px>
+ <br>
+ <img src="caprog2.jpg" alt="fanart" height= 300px>
+<img src="superman.jpg" alt="fanart" height= 300px>
+<img src="TAEJIN JIN.jpg" alt="fanart" height= 300px>
+<img src="santwinder.jpg" alt="fanart" height= 313px>
+</center>
+<br>
+<br>
+
+<br>
+
+<h1><center>My Skills</h1></center>
+<br>
+<center><img src="different-programming-languages.png" alt="languages" height= 100px></center>
+<p class="skills"><b>Computer Languages-</b>I always was a computer addict.
+<br>I always wanted to know how the computers work,<br> so I decided to take computer
+science<br> as my main subject in my school.</p>
+<br>
+<br>
+<br>
+<br>
+
+<center><img src="pngwing.png" alt="mind" height= 150px></center>
+
+<p class="st"><b>Creative Thinking-</b>Being a Graphic Designer, you always<br> have to come-up with some pretty cool ideas.<br>
+Well, I guess am really good at it as you<br>can see in 'My Work' section.;)
+<br>
+<br>
+<br>
+<br>
+<br>
+<br></p>
+<center><img src="ggg.png" alt="mind" height= 150px></center>
+<p class="rr"><b>Hardworking-</b> I'm pretty sure that <br>my work speaks for itself...<br>
+Ergo, I rest my case.
+</p>
+<br>
+<br>
+<br>
+<br>
+<center><h1>Contact Me</h1></center>
+<p class="rr>"<center>So, wanna know me in person?<br> or any other reason to reach me.<br>
+Boom!! Here are my social Media Handles...<br>
+JUST CLICK...
+</center>
+<center></p>
+<h3>
+<p class="links">
+<a href="http://www.instagram.com/kan
+eda.aala">Instagram</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.facebook.com/profile.php?id=100050204681829">Facebook</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="mailto:singh.bicky0007@gmail.com">G-Mail</a>
+</h3>
+</p>
+<br>
+<br>
+<footer>&copy;Krystal.clear.artworks/@kaneda.aala</footer>
+<br>
+<br>
+</center>
+</body>
+</html>
